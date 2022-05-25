@@ -12,7 +12,7 @@ Connect with me on these platforms:
 <a href="https://www.kaggle.com/kolaisaac10"><img src="https://res.cloudinary.com/kolaisaac10/image/upload/v1598833035/samples/Social%20Site/kaggle2_lgioik.png" alt="Kaggle Link" width="120" height="45" />
 <a href="https://zindi.africa/users/Sir-isaac"><img src="https://res.cloudinary.com/kolaisaac10/image/upload/v1598828481/samples/Social%20Site/zindi_jntzxw.png" alt="Zindi Link" width="120" height="45" /> </a>
 
-- 🌱 I’m am always learning, I formed #DL3 (Dedicated Life Long Learner)
+- 🌱 I’m always learning, I formed #DL3 (Dedicated Life Long Learner)
 
 - 💬 Ask me about: Cloud Computing, Data Science and Machine Learning
 <!--
